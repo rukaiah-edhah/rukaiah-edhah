@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am currently studying Computer Science at Mercy University and learning web development as part of the TechWise program, which is sponsored by Google.
+I am currently studying Computer Science at Mercy University and learning web development as part of the TechWise program, sponsored by Google.
 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [rukaiah.edhah@yahoo.com](mailto:rukaiah.edhah@yahoo.com)
