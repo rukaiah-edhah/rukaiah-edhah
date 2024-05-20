@@ -1,10 +1,25 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rukaiah
-===============================================================================================================================
+<!-- Introduction -->
+<div style="text-align: center; font-family: Courier New, monospace; font-size: 24px; font-weight: bold;">
+    ‣ Hey there! I'm Rukaiah Edhah
+</div>
 
-Software Engineer
------------------
 
-I am currently studying Computer Science at Mercy University and learning web development as part of the TechWise program, sponsored by Google.
+<!-- Adding Space -->
+<br>
 
-*   🌍  I'm based in New York
-*   ✉️  You can contact me at [rukaiah.edhah@yahoo.com](mailto:rukaiah.edhah@yahoo.com)
+
+<!-- Python Code Section -->
+```python
+from dataclasses import dataclass
+
+@dataclass
+class Rukaiah:
+    education: str = "CS student at Mercy University with a minor in Business Administration. Fellow at TechWise and CodePath."
+    about: str = "Aspiring Project Manager and Software Engineer enthusiastic about transforming ideas into impactful projects. Previously built a brand and sold products on Amazon, gaining invaluable entrepreneurial insights. Passionate about continuous self-improvement, you'll often find me immersed in the latest self-improvement reads and courses, meditating for a moment of zen, or hitting the gym for a good workout."
+    email: str = "redhah@mercy.edu"
+```
+
+<!-- Decorative Separator -->
+<div style="text-align: center; font-family: Courier New, monospace; font-size: 24px; font-weight: bold; margin-top: 20px;">
+    .. ────────────────── <img src="./assets/unicorn.png" alt="Unicorn" width="50"/> ────────────────── ..
+</div>
