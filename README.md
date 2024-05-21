@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Aspiring Project Manager and Software Engineer enthusiastic about transforming ideas into impactful projects. Previously built a brand and sold products on Amazon, gaining invaluable entrepreneurial insights. Passionate about continuous self-improvement, you'll often find me immersed in the latest self-improvement reads and courses, meditating for a moment of zen, or hitting the gym for a good workout.
+  Aspiring Project Manager and Software Engineer enthusiastic about transforming ideas into impactful projects. I previously built a brand and sold products on Amazon, which provided me with invaluable entrepreneurial insights. I am passionate about continuous self-development, and you’ll often find me immersed in the latest self-improvement books and courses, meditating for a moment of zen, or hitting the gym for a good workout.
 </p>
 
 <p align="center">
