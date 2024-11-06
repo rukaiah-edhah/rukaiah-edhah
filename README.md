@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  📧 <a href="mailto:rukaiah.edhah@yahoo.com">redhah@mercy.edu</a>
+  📧 <a href="mailto:rukaiah.edhah@yahoo.com">rukaiah.edhah@yahoo.com</a>
 </p>
 
 <div align="center" style="font-family: Courier New, monospace; font-size: 24px; font-weight: bold; margin-top: 20px;">
