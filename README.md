@@ -1,7 +1,7 @@
 <h1 align="center">Rukaiah Edhah</h1>
 
 <p align="center">
-  CS student at <a href="https://www.mercy.edu/">Mercy University</a> with a minor in Business Administration.
+  Computer Science student at <a href="https://www.mercy.edu/">Mercy University</a> with a minor in Business Administration.
 </p>
 
 <p align="center">
