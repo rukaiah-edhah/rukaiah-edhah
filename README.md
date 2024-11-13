@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I have worked on over +5 software engineering projects and gained experience in both software development & project management. During my gap year before college, I launched a successful brand on Amazon, driving strong sales and strengthening my management skills to lead nearly every software project I was involved in. Outside of my studies and work, I enjoy: creating content, exercising, and reading self-development books
+  I have worked on over +5 software engineering projects and gained experience in both software development & project management. During my gap year before college, I launched a successful brand on Amazon, driving strong sales and strengthening my management skills to lead nearly every software project I was involved in. Outside of my studies and work, I enjoy: creating content, exercising, and reading self-development books.
 </p>
 
 <p align="center">
