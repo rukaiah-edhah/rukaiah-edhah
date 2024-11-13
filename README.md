@@ -1,11 +1,11 @@
 <h1 align="center">Rukaiah Edhah</h1>
 
 <p align="center">
-  CS student at <a href="https://www.mercy.edu/">Mercy University</a> with a minor in Business Administration. Fellow at <a href="https://techwise.talentsprint.com//">TechWise</a> and <a href="https://www.codepath.org/">CodePath</a>.
+  CS student at <a href="https://www.mercy.edu/">Mercy University</a> with a minor in Business Administration.
 </p>
 
 <p align="center">
-  Aspiring Project Manager and Software Engineer enthusiastic about transforming ideas into impactful projects. I previously built a brand and sold products on Amazon, which provided me with invaluable entrepreneurial insights. I am passionate about continuous self-development, and you’ll often find me immersed in the latest self-improvement books and courses, meditating for a moment of zen, or hitting the gym for a good workout.
+  I have worked on over +5 software engineering projects and gained experience in both software development & project management. During my gap year before college, I launched a successful brand on Amazon, driving strong sales and strengthening my management skills to lead nearly every software project I was involved in. Outside of my studies and work, I enjoy: creating content, exercising, and reading self-development books
 </p>
 
 <p align="center">
