@@ -1,15 +1,11 @@
 <h1 align="center">Rukaiah Edhah</h1>
 
 <p align="center">
-  Computer Science student at <a href="https://www.mercy.edu/">Mercy University</a> with a minor in Business Administration.
+  Founder with a background in computer science, product development, and business operations.
 </p>
 
 <p align="center">
-  I have worked on over 5+ software engineering projects and gained experience in both software development & project management. During my gap year before college, I launched a successful brand on Amazon, driving strong sales and strengthening my management skills to lead nearly every software project I was involved in. Outside of my studies and work, I enjoy: creating content, exercising, and reading self-development books.
-</p>
-
-<p align="center">
-  📧 <a href="mailto:rukaiah.edhah@yahoo.com">rukaiah.edhah@yahoo.com</a>
+  📧 <a href="mailto:hello@rukaiah.com">hello@rukaiah.com</a>
 </p>
 
 <div align="center" style="font-family: Courier New, monospace; font-size: 24px; font-weight: bold; margin-top: 20px;">
