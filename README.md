@@ -1,7 +1,7 @@
 <h1 align="center">Rukaiah Edhah</h1>
 
 <p align="center">
-  Founder with a background in computer science, product development, and business operations.
+  Founder with a background in software engineering and product development.
 </p>
 
 <p align="center">
